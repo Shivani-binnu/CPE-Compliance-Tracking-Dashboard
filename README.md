@@ -35,3 +35,9 @@ An interactive Excel dashboard developed to monitor employee CPE (Continuing Pro
 - Excel Reporting
 - Data Visualization
 - KPI Tracking
+
+## Learning Outcomes
+- Built an interactive Excel dashboard using Pivot Tables and Pivot Charts.
+- Implemented slicers for dynamic filtering.
+- Designed KPI cards to monitor training and document verification.
+- Improved skills in Excel reporting and dashboard design.
